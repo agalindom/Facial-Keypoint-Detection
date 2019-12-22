@@ -1,0 +1,13 @@
+# MacOS
+/.DS_Store
+/images/.DS_Store
+/detector_arquitectures/.DS_Store
+
+# jupyter notebook
+**/.ipynb_checkpoints
+
+# any nonb xml data
+/**.csv
+/**.pickle
+/**.pkl
+/**.json
